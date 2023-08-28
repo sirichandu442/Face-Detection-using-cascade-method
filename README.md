@@ -1,1 +1,2 @@
 # Face-Detection-using-cascade-method
+Face detection using the cascade method relies on a pre-trained Haar Cascade Classifier to identify faces in images or video frames. It works by sliding a classifier over the image, evaluating regions for facial features, and drawing rectangles around detected faces. While efficient, it may have limitations in handling complex poses or lighting conditions, prompting the use of more advanced techniques like deep learning for enhanced accuracy in modern face detection applications.
